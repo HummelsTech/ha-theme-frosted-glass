@@ -28,7 +28,7 @@ A translucent frosted glass theme for Home Assistant with backdrop-blur effects,
 
 1. Open HACS in Home Assistant
 2. Go to **Frontend** > **3-dot menu** > **Custom repositories**
-3. Add `HummelsTech/ha-theme-frosted-glass` as category **Theme**
+3. Add `HumAssist/ha-theme-frosted-glass` as category **Theme**
 4. Search for "Frosted Glass HumLab" and install
 5. Restart Home Assistant
 6. Go to **Profile** > **Theme** and select **Frosted Glass HumLab** or **Frosted Glass HumLab Lite**
@@ -81,7 +81,7 @@ The following card types are excluded from glass effects (no background/blur):
 
 This theme is part of a consistent Frosted Glass look across self-hosted services:
 
-- [*Arr Frosted Glass](https://github.com/HummelsTech/arr-frosted-glass) — Sonarr, Radarr, Prowlarr, Bazarr
+- [*Arr Frosted Glass](https://github.com/TheHumLab/arr-frosted-glass) — Sonarr, Radarr, Prowlarr, Bazarr
 - Homarr (Mantine Custom CSS)
 - Authentik (login page CSS)
 - Nginx Proxy Manager error pages
