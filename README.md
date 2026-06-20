@@ -1,4 +1,4 @@
-# Frosted Glass Custom Theme for Home Assistant
+# Frosted Glass HumLab Theme for Home Assistant
 
 A translucent frosted glass theme for Home Assistant with backdrop-blur effects, Liquid Glass inspired inner bevels, and auto light/dark mode support. User-configurable accent colors via HA's built-in color picker.
 
@@ -29,9 +29,9 @@ A translucent frosted glass theme for Home Assistant with backdrop-blur effects,
 1. Open HACS in Home Assistant
 2. Go to **Frontend** > **3-dot menu** > **Custom repositories**
 3. Add `HummelsTech/ha-theme-frosted-glass` as category **Theme**
-4. Search for "Frosted Glass Custom" and install
+4. Search for "Frosted Glass HumLab" and install
 5. Restart Home Assistant
-6. Go to **Profile** > **Theme** and select **Frosted Glass Custom** or **Frosted Glass Custom Lite**
+6. Go to **Profile** > **Theme** and select **Frosted Glass HumLab** or **Frosted Glass HumLab Lite**
 
 ### Manual
 
@@ -56,7 +56,7 @@ The theme does **not** hardcode primary or accent colors. To customize:
 
 1. Go to **Profile** > **Theme** > select **Home Assistant** (default)
 2. Choose your **Primary color** and **Accent color**
-3. Switch back to **Frosted Glass Custom**
+3. Switch back to **Frosted Glass HumLab**
 4. Your chosen colors are applied everywhere — sliders, toggles, switches, links
 
 ### Backgrounds
